@@ -11,14 +11,11 @@ Beyond this we see an opportunity to make data objects into first class citizens
 
 We distill this down into these capabilities:
 
-<a class="button">Persistent Web Apps</a>
-<a class="button">3D Forward Design</a>
-<a class="button">Personal Data Store</a>
-<a class="button">Social Trust Graphs</a>
-<a class="button">Personal Identity</a>
-<a class="button">Portability</a>
+<a class="button" href="https://orbitalweb.github.io/philosophy/2020/02/10/persistent-web-apps.html" >Persistent Web Agents</a>
+<a class="button" href="https://orbitalweb.github.io/philosophy/2021/02/15/why-xr.html" >3D Forward Design</a>
+<a class="button" href="https://orbitalweb.github.io/philosophy/2021/02/05/self-sovereign-identity.html" >Identity and Trust</a>
 
-For more thoughts here please see our [vision statement](logs/20201001Vision.md)
+For more thoughts also please see our [vision statement](logs/20201001Vision.md)
 
 ## Roadmap
 
@@ -32,6 +29,14 @@ Please join us on [Discord](https://discord.gg/eRsBbcXjzX)
 
 Stay Tuned!
 
+## Rust
+
+We're working with Rust, not just because we're partial to Mozilla's groundbreaking work, but because the memory management model reduces many of the risks for building complex projects. It's a modern grammar with an intelligent packaging system, avoiding many of the ambiguities and risks of other grammars. Much as we're also fond of Javascript and C# and other grammars - this is a clear choice. As well the Internet community around Rust is a virtuous circle of people who care about other people.
+
 ## License
 
-All the work here is published under The Apache Open Source License. This is a permissive free software license written by the Apache Software Foundation. It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties. Please see the attached license file in this folder.
+All the work here is published under The Apache Open Source License. This is a permissive free software license written by the Apache Software Foundation. It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties. Please see the attached license file in this folder. We're supporting both Apache 2.0 and MIT licenses following the Rust philosophy, arguably avoiding risks of patent capture.
+
+## Code of Conduct
+
+Please see our [Code of Conduct](CODE_OF_CONDUCT.md)
